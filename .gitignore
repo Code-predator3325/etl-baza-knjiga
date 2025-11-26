@@ -1,0 +1,62 @@
+########################
+# WINDOWS
+########################
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+########################
+# VISUAL STUDIO
+########################
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.log
+*.tlog
+*.ilk
+*.idb
+*.tmp
+*.exe
+*.dll
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+
+########################
+# SSIS / SQL SERVER PROJECT
+########################
+*.dtproj.user
+*.ispac
+*.dtsx.reverse
+*.dtsConfig
+*.conmgr
+
+########################
+# LOCAL SQL DATABASE FILES
+########################
+*.mdf
+*.ldf
+*.ndf
+
+########################
+# SQL SERVER TEMP / TRACE
+########################
+*.trc
+*.tr5
+*.xel
+*.xem
+*.database
+
+########################
+# ARCHIVES & MISC
+########################
+*.zip
+*.rar
+*.7z
